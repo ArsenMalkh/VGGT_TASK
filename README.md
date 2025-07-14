@@ -99,7 +99,7 @@ python3 compute_homography.py
 Вот пример, как видоизменяется изображение при применении гомографии:
 
 <p align="center">
-  <img src="assets/H.png" alt="Homography Projection" width="600"/>
+  <img src="images/H.png" alt="Homography Projection" width="600"/>
 </p>
 
 ### 4. `make_tensor.py`
