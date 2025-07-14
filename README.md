@@ -71,7 +71,3 @@ python3 manual_point_picker.py
   <img src="images/heatmap.png" alt="Depth Map Example" width="600"/>
 </p>
 
----
-
-Готов добавить следующий блок — например, создание гомографии и проекция в координаты корта. Продолжим?
-
