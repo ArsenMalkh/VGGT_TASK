@@ -20,6 +20,7 @@ pip install -r requirements.txt
 
 ```
 vggt-1b.pt
+#https://disk.360.yandex.ru/d/3NI_QC5zIhp1tQ
 ```
 
 ## 🚀 Скрипты
