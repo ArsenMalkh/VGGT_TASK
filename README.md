@@ -47,6 +47,10 @@ python3 run_vggt.py \
 
 После получения `rgbd_tensor.pt` вы можете разметить 4 ключевые точки теннисного корта (углы) на одном из кадров. Это нужно для вычисления гомографии — перехода от изображения к координатам корта в метрах.
 
+<p align="center">
+  <img src="images/frame_proc.png" alt="Frame 0" width="600"/>
+</p>
+
 ### 2. `manual_point_picker.py`
 
 Показывает первый кадр из видео и позволяет вручную кликнуть по 4 углам корта. Полученные точки сохраняются в `pts_img.json`.
@@ -68,6 +72,6 @@ python3 manual_point_picker.py
 Вот пример:
 
 <p align="center">
-  <img src="images/heatmap.png" alt="Depth Map Example" width="600"/>
+  <img src="images/height_map.png" alt="Depth Map Example" width="600"/>
 </p>
 
